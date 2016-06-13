@@ -128,7 +128,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="AzureSBLite.WinRT">
-      <HintPath>..\..\git_repos\azuresblite\bin\Debug\AzureSBLite.WinRT\AzureSBLite.WinRT.dll</HintPath>
+      <HintPath>..\..\..\..\azuresblite\bin\Debug\AzureSBLite.WinRT\AzureSBLite.WinRT.dll</HintPath>
     </Reference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
